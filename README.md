@@ -1,1 +1,1 @@
-# LopezAlfaro_Sofia_Proposal
+# LopezAlfaro_Sofia_ScribbleApp
